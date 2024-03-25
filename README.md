@@ -1,7 +1,10 @@
-### Hi Eveyone 👋
+## Hi Eveyone 👋
 
-## Saranyapong Aiamanong
-My name is saranyapong aiamanong you can call me "Toon"
+## Saranyapong Aiamanong :shushing_face: :
+
+## Infomation :baby_chick: :
+My name is saranyapong aiamanong 
+Ny nickname is "Toon"
 
 ## Connect with me :grinning: :
 
