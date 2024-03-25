@@ -1,5 +1,3 @@
-## Hi Eveyone 👋
-
 ## Saranyapong Aiamanong :shushing_face: :
 
 ## Infomation :baby_chick: :
