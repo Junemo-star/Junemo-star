@@ -9,4 +9,4 @@ My name is Saranyapong Aiamanong and you can call me "Toon"
 - [Instragram](https://www.instagram.com/saran_tooneiei/)
 
 ## Stats :fire: :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junemo-star&hide=Jupyter%20Notebook,CSS,Objective-C,HTML,ShaderLab,Shell,HLSL&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junemo-star&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junemo-star&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junemo-star&hide=Jupyter%20Notebook,CSS,Objective-C,HTML,ShaderLab,Shell,HLSL&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
