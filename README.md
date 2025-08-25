@@ -1,8 +1,5 @@
 ## Saranyapong Aiamanong :shushing_face: :
 
-## Infomation :baby_chick: :
-My name is Saranyapong Aiamanong and you can call me "Toon"
-
 ## Connect with me :grinning: :
 
 - [Facebook](https://web.facebook.com/saranyapong.aiamanong/)
